@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971919656378",
+    "project_id": "agri-metrics",
+    "storage_bucket": "agri-metrics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971919656378:android:49d66a9b82699b84b74983",
+        "android_client_info": {
+          "package_name": "com.example.smart_metrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971919656378-pgu1eg5mm0si8p5abne8cp01kc7hch86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_metrics",
+            "certificate_hash": "aca9ac97797dd681674687dea989b68f14a8951d"
+          }
+        },
+        {
+          "client_id": "971919656378-v76atpu9bvd97tta2mvru0fohok0g8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMAD74BiLZdlrFnOlta5yiiqp3qaQHdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971919656378-v76atpu9bvd97tta2mvru0fohok0g8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
